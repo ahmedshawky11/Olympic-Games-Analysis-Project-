@@ -1,5 +1,5 @@
 # Olympic-Games-Analysis-Project-
-Visualize data that will help readers understand countries' historical performance in the Summer Olympics and gain insights into competitors using SQL and Power bi
+Visualize data that will help readers understand countries' historical performance in the Summer Olympics and gain insights into competitors using SQL, Power bi, Dax
 # Business Problem
 "As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.
 
